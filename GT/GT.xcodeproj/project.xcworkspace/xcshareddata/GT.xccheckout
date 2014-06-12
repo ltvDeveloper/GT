@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>00B802EA-86ED-4DCA-9D6A-285095785EF8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GT</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>11BB30A8-EFEC-40B2-BEC8-C61E253CCB21</key>
+		<string>https://github.com/ltvDeveloper/GT.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GT/GT.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>11BB30A8-EFEC-40B2-BEC8-C61E253CCB21</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ltvDeveloper/GT.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>11BB30A8-EFEC-40B2-BEC8-C61E253CCB21</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>11BB30A8-EFEC-40B2-BEC8-C61E253CCB21</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GT</string>
+		</dict>
+	</array>
+</dict>
+</plist>
