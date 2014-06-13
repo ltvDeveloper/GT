@@ -9,5 +9,6 @@
 #import <UIKit/UIKit.h>
 
 @interface GTViewController : UIViewController
+@property (strong, nonatomic) IBOutlet UIButton *butt;
 
 @end
